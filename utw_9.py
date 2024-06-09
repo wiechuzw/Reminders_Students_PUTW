@@ -6,8 +6,8 @@ import os
 import smtplib
 from datetime import datetime
 from email.mime.text import MIMEText
-from utw_12_add import FROM_PASSWORD
 from typing import List, Tuple, Optional
+from utw_12_add import FROM_PASSWORD
 
 EMAIL_BROADCASTING = "wieslaw.ziewiecki@gmail.com"
 SUBJECT = "PUTW"
